@@ -1,4 +1,4 @@
-# My FTL Syria Program Journey: AI for Climate
+I# My FTL Syria Program Journey: AI for Climate
 
 Welcome to my learning journal for the Frontier Tech Leaders (FTL) Syria Program – AI for Climate!
 
@@ -7,7 +7,7 @@ This repository documents my progress, key takeaways, and projects throughout th
 
 # 👨‍💻 About Me
 
-My name is Majdal Shams, a Telecom Engineer and a passionate learner within the intersection of Tech, SDGs, and AI Governance.
+My name is Majdal Shams, a Telecom Engineer and a passionate learner at the intersection of Tech, SDGs, and AI Governance.
 
 •	Github: @majdalshams
 

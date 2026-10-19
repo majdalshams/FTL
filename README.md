@@ -11,6 +11,18 @@ My name is Majdal Shams, a Telecom Engineer and a passionate learner at the inte
 
 •	Github: @majdalshams
 
+# 🗓️ Programme Schedule & Progress
+
+Key Programme Timelines:
+•	Program Duration: September - December 2026
+•	Python Hackathon: September 28 - October 2, 2026
+•	Capstone Final Presentation: December 22-23, 2026
+
+# 📚 Session Notes & Key Learnings
+
+My key takeaways from each session will be added here. All code and exercises exist in my main Colab Notebook.
+ps: by the time of reading this, you may require sending a request to access these files.
+
 
 
 

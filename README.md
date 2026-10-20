@@ -1,47 +1,48 @@
-# My FTL Syria Programme Journey: AI for Climate
+# My FTL Syria Program Journey: AI for Climate
 
-Welcome to my learning journal for the **Frontier Tech Leaders (FTL) Syria Programme – AI for Climate**!
+Welcome to my learning journey through the **Frontier Tech Leaders (FTL) Syria Program – AI for Climate**!
 
-This repository documents my progress, key takeaways, and projects throughout this 3.5-month intensive program running from September to December 2026. The program is a unique collaboration between the UNDP, the UNDP Istanbul International Center for Private Sector in Development (ICPSD), and Damascus University, supported by the German Federal Ministry for Economic Cooperation and Development (BMZ) through KfW.
+This repository documents my learning advances, key takeaways, and projects throughout the FTL intensive program running from September to December 2026.
 
-The goal is to build a new generation of tech leaders by connecting technical skills in AI, Python, and data science to real-world challenges in climate, energy, and the environment.
+FTL is a unique collaboration between the UNDP, the UNDP Istanbul International Center for Private Sector in Development (ICPSD), and Damascus University, supported by the German Federal Ministry for Economic Cooperation and Development (BMZ) through KfW, in order to build a new generation of tech leaders by connecting technical skills in AI, Programming mainly using Python, and Data Analysis to real-world challenges in climate, energy, and environment.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm Ahmad Deeb, a passionate learner on a mission to leverage technology for sustainable development.
+My name is Majdal Shams, a Telecom Engineer and a passionate learner at the intersection of Tech, SDGs, and AI governance.
 
-- **GitHub:** [@AhmedGDeeb](https://github.com/AhmedGDeeb)
-- **LinkedIn:** [Ahmad Deeb](https://www.linkedin.com/in/ahmad-deeb-13699b39a/)
+- **GitHub:** [@majdalshams]((https://github.com/majdalshams))
+- **LinkedIn:** [Majdal Shams](https://www.linkedin.com/in/majdal-shams-abbas)
 
 ---
 
 ## 🗓️ Programme Schedule & Progress
 
-The program is structured into several key phases. I will update this section as we progress.
+The program is structured into multiple phases. This section will be updated as we progress.
 
 | Phase / Module | Status | Key Topics |
 | :--- | :---: | :--- |
-| **Python Bootcamp** | 🔄 **In Progress** | Python syntax, Data Types, Variables, Operators, Control Flow, Functions |
-| **Python Hackathon** | ⏳ Not Started | Group-based problem solving and presentation |
-| **Data Analysis & SDG** | ⏳ Not Started | Data manipulation, analysis techniques, peer coding |
-| **Applied Machine Learning** | ⏳ Not Started | Regression, Classification, Clustering, Model Development |
+| **Python Bootcamp** | **Completed by 15 Oct.** | Python syntax, Data Types, Variables, Operators, Control Flow, Functions |
+| **AI4Climate Hackathon** | **From 27 Oct. to 29 Oct.** | Team-based problem solving and presentation on 30 Oct. |
+| **Data Analysis & SDG** | **Completed by 15 Oct.** | Data manipulation, analysis techniques, Pair-coding challenges |
+| **Applied Machine Learning** | 🔄 In progress | Regression, Classification, Clustering, Model Development |
 | **Applied Dev & Deployment** | ⏳ Not Started | Git, GitHub, Command Line, Docker, APIs, Model Integration |
-| **Specialized Sessions** | ⏳ Not Started | Cybersecurity, AI Security, AI for Climate, Smart Grids |
+| **Specialized Sessions** | ⏳ Not Started | Cybersecurity, AI Security, Generative AI & LLMs for Climate Innovation, Agentic AI, Smart Grids|
+| **Professional Certifications**| ⏳ Not Started | AI-driven Automation & Control Systems, Power System Operations & Grid Reliability, Wireless Networking, IoT Systems, Climate Monitoring |
+| **Soft Skills**| ⏳ Not Started | Enterpreneurship, Prompt Engineering, Ethics of AI, Project Management |
 | **Capstone Project** | ⏳ Not Started | Literature review, Problem statement, Model development, Final Presentation |
-| **Professional Certifications**| ⏳ Not Started | Power Systems, Wireless Networking, IoT, Climate Monitoring |
 
 **Key Programme Timelines:**
 - **Program Duration:** September - December 2026
-- **Python Hackathon:** September 28 - October 2, 2026
+- **Python Hackathon:** September 27 - October 29, 2026
 - **Capstone Final Presentation:** December 22-23, 2026
 
 ---
 
 ## 📚 Session Notes & Key Learnings
 
-This section is my personal knowledge base. I'll add key takeaways from each session here. All code and exercises will be in my main [Colab Notebook](https://colab.research.google.com/github/AhmedGDeeb/FTL/blob/main/tasks/FTL_Tasks_ahmad_deeb.ipynb).
+All sessions' codes and exercises will be available in my [Colab Notebook](https://drive.google.com/drive/folders/1LyS5AmaKt9Wak4wbtLzN8YQqV2cci-Z6).
 
 ---
 

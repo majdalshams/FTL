@@ -60,7 +60,7 @@ All sessions' codes and exercises will be available in my [Colab Notebook](https
     - **Dynamic Typing:** Python automatically determines the type of a variable at runtime.
     - **Expressions and Operators:** Combining values and variables with arithmetic (`+`, `-`, `*`, `/`) and assignment (`=`) operators.
 
-- **My Code & Exercises:** [Link to my Day 1 Notebook](https://colab.research.google.com/github/AhmedGDeeb/FTL/blob/main/tasks/FTL_Tasks_ahmad_deeb.ipynb)
+- **My Code & Exercises:** [Link to my Day 1 Notebook](https://colab.research.google.com)
 
 ---
 
@@ -86,7 +86,7 @@ All sessions' codes and exercises will be available in my [Colab Notebook](https
     - **Example:** `square = lambda x: x ** 2`
     - **Common Use Cases:** Passing a function as an argument (e.g., to `map()`, `filter()`, `sorted()`), inline calculations.
 - **Practice:** We wrote small functions and lambda expressions to solve simple problems (e.g., unit conversions, basic calculations).
-- **My Code & Exercises:** [Link to my Day 2 Notebook](https://colab.research.google.com/github/AhmedGDeeb/FTL/blob/main/tasks/FTL_Tasks_ahmad_deeb.ipynb)
+- **My Code & Exercises:** [Link to my Day 2 Notebook](https://colab.research.google.com)
 
 ---
 
@@ -176,7 +176,7 @@ All sessions' codes and exercises will be available in my [Colab Notebook](https
           quit()
       ```
 
-- **My Code & Exercises:** [Link to my Day 3 Notebook](https://colab.research.google.com/github/AhmedGDeeb/FTL/blob/main/tasks/FTL_Tasks_ahmad_deeb.ipynb)
+- **My Code & Exercises:** [Link to my Day 3 Notebook](https://colab.research.google.com)
 
 ---
 
@@ -269,7 +269,7 @@ All sessions' codes and exercises will be available in my [Colab Notebook](https
         5. Display the total number of guests.
         - **Extensions:** Allow user input for new guests, display guests in order of age, and handle duplicate guest names by prompting to update or skip.
 
-- **My Code & Exercises:** [Link to my Day 4 Notebook](https://colab.research.google.com/github/AhmedGDeeb/FTL/blob/main/tasks/FTL_Tasks_ahmad_deeb.ipynb)
+- **My Code & Exercises:** [Link to my Day 4 Notebook](https://colab.research.google.com)
 
 ### Day 5: Session 4 — Working with Scientific Data in Python / Intro to OOP (Sep 21, 2026)
 
